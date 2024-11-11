@@ -1,2 +1,2 @@
 # MARCS-workshop-2024
-workshop on reproducible research 
+Be able to use this tool for my future research
